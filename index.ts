@@ -1,4 +1,4 @@
-
+export {};
 
 // 1
 let productName: string = "Laptop";

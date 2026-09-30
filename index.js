@@ -1,4 +1,3 @@
-"use strict";
 // 1
 let productName = "Laptop";
 let price = 999;
@@ -28,3 +27,4 @@ function printLength(x) {
 }
 printLength("Hello");
 printLength(123);
+export {};
